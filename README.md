@@ -24,6 +24,6 @@ Our goal is to implement a modern Hotel Booking Management System that improves 
 ## Contributors
 
 - **22UG2-0193 Chamathvi Kawya** - Created GitHub repository and its initial directory structure.
-- **22UG1-0233 Tashima Jayasekara** - Added contributors to README.md and changed class name "Hotel" into "HotelDetails"
+- **22UG1-0233 Tashima Jayasekara** - Added contributors to README.md and git updated class name "Hotel" into "HotelDetails"
 
 
