@@ -121,6 +121,7 @@ calculate_total(): Calculates the total cost of a reservation based on the numbe
 - **22UG1-0233 Tashima Jayasekara** - Added contributors to README.md and renamed class name "Hotel" into "HotelDetails"
 - **22UG1-0233 Tashima Jayasekara** - Added contributors to README.md and git updated class name "Hotel" into "HotelDetails"
 - **22UG1-0714 Nipuna Sangeeth** - Discribe Key Entities in the system.
+- **22UG1-0885 Hashan Madhushanka** - Added contributors to README.md
 
 
 
